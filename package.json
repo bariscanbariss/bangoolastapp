@@ -30,7 +30,7 @@
     "expo-linear-gradient": "^15.0.8",
     "expo-modules-core": "^3.0.29",
     "nativewind": "^4.2.0",
-    "react": "19.1.1",
+    "react": "19.2.3",
     "react-hook-form": "^7.6.0",
     "react-native": "0.82.1",
     "react-native-element-dropdown": "^2.12.4",
